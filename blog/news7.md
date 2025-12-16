@@ -2,7 +2,7 @@
 PageName: "プログラミングコンテストを開催します！"
 PageTitle: "プログラミングコンテストを開催します！"
 PageAbstract: "プログラミングが書けないあなたもこの機会に始めてみませんか？"
-PageImg: "assets/pien.png"
+PageImg: "/assets/pien.png"
 PageTag: "ぴえ鯖"
 PageUpdateDay: "2025/12/17"
 important: true
